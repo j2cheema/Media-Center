@@ -1,0 +1,10 @@
+.\gallery.o: Gallery.c
+.\gallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\gallery.o: LPC17xx.H
+.\gallery.o: core_cm3.h
+.\gallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gallery.o: system_LPC17xx.h
+.\gallery.o: GLCD.h
+.\gallery.o: LED.h
+.\gallery.o: ADC.h
+.\gallery.o: KBD.h

@@ -1,0 +1,9 @@
+.\menu.o: menu.c
+.\menu.o: .\common\inc\LPC17xx.H
+.\menu.o: .\common\inc\core_cm3.h
+.\menu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\menu.o: .\common\inc\system_LPC17xx.h
+.\menu.o: .\common\inc\LPC17xx.h
+.\menu.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\menu.o: GLCD.h
+.\menu.o: LED.h

@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+".\startup_lpc17xx.o"
+".\adc.o"
+".\adcuser.o"
+".\blinky.o"
+".\core_cm3.o"
+".\glcd_spi_lpc1700.o"
+".\irq.o"
+".\kbd.o"
+".\led.o"
+".\system_lpc17xx.o"
+".\usbcore.o"
+".\usbdesc.o"
+".\usbdmain.o"
+".\usbhw.o"
+".\usbuser.o"
+".\nike.o"
+".\ball..o"
+".\logo.o"
+--strict --scatter ".\project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\project.map" -o .\project.axf

@@ -1,0 +1,1 @@
+.\nike.o: nike.c

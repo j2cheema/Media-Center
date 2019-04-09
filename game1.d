@@ -1,0 +1,10 @@
+.\game1.o: game1.c
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\game1.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\game1.o: C:\Keil\ARM\RV31\INC\RTL.h
+.\game1.o: GLCD.h
+.\game1.o: KBD.h
+.\game1.o: LED.h

@@ -1,0 +1,9 @@
+.\glcd_spi_lpc1700.o: GLCD_SPI_LPC1700.c
+.\glcd_spi_lpc1700.o: .\common\inc\lpc17xx.h
+.\glcd_spi_lpc1700.o: .\common\inc\core_cm3.h
+.\glcd_spi_lpc1700.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\glcd_spi_lpc1700.o: .\common\inc\system_LPC17xx.h
+.\glcd_spi_lpc1700.o: .\common\inc\LPC17xx.h
+.\glcd_spi_lpc1700.o: GLCD.h
+.\glcd_spi_lpc1700.o: Font_6x8_h.h
+.\glcd_spi_lpc1700.o: Font_16x24_h.h
